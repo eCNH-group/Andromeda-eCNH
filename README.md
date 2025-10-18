@@ -88,3 +88,12 @@ earth & Global Humanity Builds and Shares eCNH Together.
 eCNH CA:
 
 7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5u
+
+
+# 参与建设eCNH流动池：
+
+https://www.orca.so/pools/BHf1yCvj6qh2E1y2JLrjesP7RRC8XjBN3FyHeq45LnBZ
+
+https://app.meteora.ag/dlmm/5X1XqymjmPTyCQRursrzdCJx4jTJHqgqQ6UrxwTRqFZt
+
+https://app.uniswap.org/explore/tokens/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
