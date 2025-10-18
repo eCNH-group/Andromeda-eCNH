@@ -1,6 +1,7 @@
 # Andromeda-eCNH
 Andromeda-eCNH group
 
+1 eCNH ≈ 0.1403 USDC ≈ 1 CNH
 
 eCNH区块浏览器： https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
@@ -80,3 +81,10 @@ eCNH 的全球与宇宙级应用扩展
 
 跨维度	元宇宙价值锚定	虚拟资产与现实购买力转换	虚拟经济的引力中心
 
+
+
+earth & Global Humanity Builds and Shares eCNH Together.
+
+eCNH CA:
+
+7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5u
